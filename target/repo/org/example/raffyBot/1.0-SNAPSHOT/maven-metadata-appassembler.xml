@@ -3,7 +3,7 @@
   <groupId>org.example</groupId>
   <artifactId>raffyBot</artifactId>
   <versioning>
-    <lastUpdated>20221205020825</lastUpdated>
+    <lastUpdated>20221205030516</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,7 +11,7 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20221205020825</updated>
+        <updated>20221205030516</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
