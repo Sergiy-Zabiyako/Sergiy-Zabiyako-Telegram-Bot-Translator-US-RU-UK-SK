@@ -53,11 +53,11 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>WorkerProcess</mainClass>
+                            <mainClass>org.example.Main</mainClass>
                             <name>worker</name>
                         </program>
                         <program>
-                            <mainClass>OneOffProcess</mainClass>
+                            <mainClass>org.example.Main</mainClass>
                             <name>oneoff</name>
                         </program>
                     </programs>
